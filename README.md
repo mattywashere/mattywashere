@@ -1,7 +1,7 @@
 # Hello, I'm Matthew.
 
 ## Information Technology Projects
-• Microsoft Azure
+• **Microsoft Azure**
 
 ## Accounting Projects
 
