@@ -1,4 +1,4 @@
-# Hello I'm Matthew, an IT Specialist
+# Hello, I'm Matthew.
 
 ---
 
