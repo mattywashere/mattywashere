@@ -2,7 +2,7 @@
 
 ## Information Technology Projects
 • **Microsoft Azure**
-  • Prepariong Active Directory using Azure Virtual Machines
+[Setting Up Active Directory using Azure VMs](link-to-azure-ad-project)
 
 ## Accounting Projects
 
