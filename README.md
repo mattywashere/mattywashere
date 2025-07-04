@@ -1,7 +1,8 @@
 # Hello, I'm Matthew.
 
 ## Resume
-* (input resume here)
+* [Resume](https://github.com/mattywashere/resume)
+
 ## Information Technology Projects
 * **Microsoft Azure**
   * [Establishing Active Directory using Azure Virtual Machines](https://github.com/mattywashere/ad-configuration)
