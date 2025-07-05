@@ -1,7 +1,6 @@
 # Hello, I'm Matthew.
 
 ## [Resume](https://mattywashere.github.io/resume/)
-* [Resume](https://mattywashere.github.io/resume/)
 
 ## Information Technology Projects
 * **Microsoft Azure**
