@@ -1,6 +1,6 @@
 # Hello, I'm Matthew.
 
-## Resume
+## Resume(https://mattywashere.github.io/resume/)
 * [Resume](https://mattywashere.github.io/resume/)
 
 ## Information Technology Projects
